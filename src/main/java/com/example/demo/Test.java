@@ -6,8 +6,7 @@ public class Test {
 
 		//int beHappy = 2; // Change to false to see the other outcome
 		
-		//String abc = "yes";
-
+		//String abc = "yes";                 //
 		char letter = 'a'; // Assigning a character
 		
 		if (letter=='a') {
